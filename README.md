@@ -8,7 +8,7 @@
 
 **主要功能：**
 
-- 🪑 **椅子传送**：在已激活的椅子之间快速传送，打开地图的标记选中椅子进行传送，也支持使用椅子列表UI进行传送。长按F3/X键查看椅子在地图上的位置，松开回到UI（被选中的椅子会有动态效果）
+- 🪑 **椅子传送**：在已激活的椅子之间快速传送，支持使用椅子列表UI进行传送。长按F3/X键查看椅子在地图上的位置，松开回到UI（被选中的椅子会有动态效果）
 - ⭐ **收藏功能**：双击→键可收藏场景/椅子，置顶显示
 - 🎮 **键位自定义**：支持键盘的完全自定义
 - ✏️ **椅子重命名**：为椅子设置自定义名称，方便识别
@@ -132,7 +132,7 @@ The Chair Teleport Mod provides a convenient chair teleport feature, allowing yo
 
 **Main Features:**
 
-- 🪑 **Chair Teleport**: Quickly teleport between activated chairs. Open the map marker and select the chair to teleport. You can also use the chair list UI to teleport.Press and hold the F3/X key to view the chair's location on the map, then release it to return to the UI (the selected chair will animate).
+- 🪑 **Chair Teleport**: Quickly teleport between activated chairs. You can use the chair list UI to teleport.Press and hold the F3/X key to view the chair's location on the map, then release it to return to the UI (the selected chair will animate).
 - ⭐ **Favorite Feature**: Double-click → key to favorite scenes/chairs, pinned to top
 - 🎮 **Key Customization**: Full keyboard customization
 - ✏️ **Chair Rename**: Set custom names for chairs for easy identification
